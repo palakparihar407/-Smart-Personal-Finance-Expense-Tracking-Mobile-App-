@@ -26,5 +26,4 @@ Each screen was designed with a clean layout, clear typography, and consistent s
                                        Income – Green
                                        Expense – Red
 
-Icons
 Icons are used to represent categories like food, groceries, shopping, and transport to improve usability.
